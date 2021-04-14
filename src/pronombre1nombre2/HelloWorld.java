@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hola Mundo una vez más");
 		System.out.println("Este es el segundo Hola al mundo");
 		System.out.println("Este es el tercer cambio para comprobar en el remoto1");
-		System.out.println("Este es un cambio hecho cuando ya hay dos usuarios");
+		System.out.println("Este es un cambio hecho cuando ya hay dos usuarios2");
 	}
 
 }
